@@ -67,5 +67,5 @@ jupyter notebook notebook/SCT_DS_1_Population_Analysis.ipynb
 
 ---
 
-**Author:** [Your Name]
-**Internship:** SkillCraft Technology — Data Science Internship (July 2026)
+Author: Yashveer Singh
+Internship: SkillCraft Technology — Data Science Internship (July 2026)
